@@ -35,7 +35,17 @@ public class DemoTest3 {
 		System.out.println(whatAmIThinking);
 
 
-	}
+             int x = 10;
+	     int y = 40;
 
+		if(x > y){
+			System.out.println("Greater");
+		}else{
+			System.out.println("Less");
+
+		}
+
+		
+	}
 
 }
